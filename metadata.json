@@ -1,0 +1,5 @@
+{
+  "name": "Voo de AdrIA",
+  "description": "Una aplicación avanzada de texto a voz utilizando el modelo Gemini 2.5 Flash para generar audio natural en español.",
+  "requestFramePermissions": []
+}
